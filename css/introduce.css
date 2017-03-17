@@ -1,0 +1,92 @@
+﻿/* CSS Document */
+ul{list-style:none;}
+/******Wrapper Stars**************/
+*{margin:0;padding:0;	border:0;}
+.content{ background-image:url(../images/bj.png);
+          width:1440px;
+		  height:750px;
+		  float:left;
+}
+.menu{width:1000px;
+      height:700px;
+	  margin-top:26px;
+	  margin-left:220px;
+	  margin-right:220px;
+}
+.left{width:230px;
+      height:685px;
+	  float:left;
+}
+.content_left_top1{width:235px;
+	height:150px;background-color:#FFF;}
+.content_left_side_bar{
+	height:409px;
+	float:left;
+	width:195px;
+	line-height:45.5px;
+	text-align:left;
+	padding-left:40px;
+	margin-top:20px;
+	color:#01458e;
+	font-size:18px;
+	font-family:"微软雅黑";
+	background-image:url(../images/left-side-bar.png);
+}
+.content_left_side_bar ul{
+width:auto;
+margin:0;
+height:45.5px;
+padding:0;
+}
+.content_left_side_bar ul li{
+list-style-type:none;
+}
+.content_left_side_bar ul li a{
+width:195px;
+height:45.5px;
+font-family:"微软雅黑";
+line-height:45.5px;
+color:#333333;
+font-size:14px;
+display:block;
+text-align:left;
+text-decoration:none;
+}
+.content_left_side_bar ul li a:hover{
+width:195px;
+height:45.5px;
+line-height:45.5px;
+color:#333333;
+font-family:"微软雅黑";
+font-size:14px;
+}
+
+.main{width:740px;
+      height:725px;
+	  margin-left:25px;
+	  float:left;
+	  background-color:#FFF;
+}
+.book{width:660px;
+      height:50px;
+	  text-align:center;
+}
+.title1{ font-family:"微软雅黑"; font-size:16px; float:left;}
+.title2{font-family:"微软雅黑"; font-size:14px; float:right;}
+.picture{width:660px;
+         height:196px;
+		 margin-left:38px;
+}
+.picture_01{margin-right:20px; float:left;}
+.message{ width:660px; height:400px; margin-left:38px;}
+.message_title{font-size:14px; font-family:"微软雅黑";color:#333333;}
+.text1{font-size:14px; font-family:"微软雅黑"; color:#333; text-indent:2em;}
+.text2{font-size:14px; font-family:"微软雅黑"; color:#333; text-indent:2em;}
+/******Wrapper Endss**************/
+
+/******Footer Section Stars*******/
+.footer{width:1440px;
+        height:35px;
+		margin-top:26px;
+}
+/******Footer Section Ends********/
